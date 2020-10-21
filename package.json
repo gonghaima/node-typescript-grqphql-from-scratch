@@ -22,27 +22,27 @@
   },
   "homepage": "https://github.com/gonghaima/node-typescript-grqphql-from-scratch#readme",
   "devDependencies": {
-    "@types/graphql": "^14.5.0",
-    "@types/graphql-depth-limit": "^1.1.2",
-    "@types/node": "^14.11.10",
-    "graphql-depth-limit": "^1.1.0",
-    "graphql-import": "^1.0.2",
+    "@types/graphql": "14.5.0",
+    "@types/graphql-depth-limit": "1.1.2",
+    "@types/node": "14.11.10",
+    "graphql-depth-limit": "1.1.0",
+    "graphql-import": "1.0.2",
     "graphql-import-node": "0.0.4",
-    "nodemon": "^2.0.5",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.3"
+    "nodemon": "2.0.6",
+    "ts-node": "9.0.0",
+    "typescript": "4.0.3"
   },
   "dependencies": {
-    "apollo-server-core": "^2.18.2",
-    "apollo-server-fastify": "^2.18.2",
-    "apollo-server-types": "^0.6.0",
-    "fast-json-stringify": "^2.2.9",
-    "fastify": "^3.7.0",
-    "fastify-accepts": "^1.0.0",
-    "fastify-cors": "^0.2.0",
+    "apollo-server-core": "2.18.2",
+    "apollo-server-fastify": "2.18.2",
+    "apollo-server-types": "0.6.0",
+    "fast-json-stringify": "2.2.9",
+    "fastify": "3.7.0",
+    "fastify-accepts": "1.0.0",
+    "fastify-cors": "0.2.0",
     "graphql": "^15.3.0",
-    "graphql-subscriptions": "^1.1.0",
-    "graphql-tools": "^4.0.0",
-    "ncp": "^2.0.0"
+    "graphql-subscriptions": "1.1.0",
+    "graphql-tools": "4.0.8",
+    "ncp": "2.0.0"
   }
 }
